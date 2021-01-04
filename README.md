@@ -3,8 +3,6 @@
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-## Lab Goals
-
 ## Acknowledgements
 
 The author consulted the following resources when writing  this tutorial:
@@ -20,8 +18,6 @@ The author consulted the following resources when writing  this tutorial:
   * [Setting Up Callbacks](#setting-up-callbacks)
   * [Additional Resources](#additional-resources)
   * [Publishing a `dash` App](#publishing-a-dash-app)
-- [Project Prompts](#project-prompts)
-- [Lab Notebook Questions](#lab-notebook-questions)
 
 # Overview
 
@@ -681,11 +677,3 @@ if __name__ == '__main__':
 99. For more information in deploying a Flask app using Reclaim Hosting (or another cPanel provider):
 - [`python`, Flask: Deploy an App](https://python-adv-web-apps.readthedocs.io/en/latest/flask_deploy.html)
 - Tony Hirst, ["Creating a Simple Python Flash App via cPanel on Reclaim Hosting"](https://blog.ouseful.info/2016/09/17/creating-a-simple-python-flask-app-running-on-reclaim-hosting/) *OUseful.Info* (17 September 2016)
-
-# Project Prompts
-
-There are no project prompts. There is only final project proposal work.
-
-# Lab Notebook Questions
-
-PLACEHOLDER
