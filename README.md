@@ -18,6 +18,8 @@ The author consulted the following resources when writing  this tutorial:
   * [Setting Up Callbacks](#setting-up-callbacks)
   * [Additional Resources](#additional-resources)
   * [Publishing a `dash` App](#publishing-a-dash-app)
+    
+[Click here](https://raw.githubusercontent.com/kwaldenphd/dash-python/main/dash-python.ipynb) and select the "Save As" option to download this lab as as Jupyter Notebook.
 
 # Overview
 
@@ -560,7 +562,7 @@ if __name__ == '__main__':
 
 74. Let's look at another application that uses callbacks.
 
-75. In this examle, global population data is plotted as a bubble chart.
+75. In this example, global population data is plotted as a bubble chart.
 
 76. Points are colored by continent, sized by population, and a slider is used to mark each year of available data.
 
