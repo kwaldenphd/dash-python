@@ -20,7 +20,7 @@ The author consulted the following resources when writing  this tutorial:
   * [Setting Up Callbacks](#setting-up-callbacks)
   * [Additional Resources](#additional-resources)
   * [Publishing a `dash` App](#publishing-a-dash-app)
-- [Practice Problems](#practice-problems)
+- [Project Prompts](#project-prompts)
 - [Lab Notebook Questions](#lab-notebook-questions)
 
 # Overview
@@ -682,9 +682,9 @@ if __name__ == '__main__':
 - [`python`, Flask: Deploy an App](https://python-adv-web-apps.readthedocs.io/en/latest/flask_deploy.html)
 - Tony Hirst, ["Creating a Simple Python Flash App via cPanel on Reclaim Hosting"](https://blog.ouseful.info/2016/09/17/creating-a-simple-python-flask-app-running-on-reclaim-hosting/) *OUseful.Info* (17 September 2016)
 
-# Practice problems
+# Project Prompts
 
-There are no practice problems. There is only final project proposal work.
+There are no project prompts. There is only final project proposal work.
 
 # Lab Notebook Questions
 
